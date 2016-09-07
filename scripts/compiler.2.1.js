@@ -54,7 +54,7 @@ function addElementToModel(elementType, elementContents, pageObject){
 	pageObject.order.push(randomObjectName);
 }
 
-// The following function retrievs the QuickUp Object Model
+// The following function retrieves the QuickUp Object Model
 function retrieveModel(){
 	return page;
 }
